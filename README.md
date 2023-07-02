@@ -1,1 +1,1 @@
-# SQL_introduction
+This project will introduce us to SQL.
